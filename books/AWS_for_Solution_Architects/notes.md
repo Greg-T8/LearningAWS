@@ -18,10 +18,7 @@
 
 ### Basic cloud and AWS terminology
 
-Cloud providers have different names for the same concenepts. Example for VMs:
-- AWS uses Elastic Compute Cloud (EC2) instances.
-- Azure uses Azure Virtual Machines.
-- GCP uses Google Compute Engine.
+Cloud providers have different names for the same concepts:
 
 | Service                              | AWS                                                                                                                | Azure                                                                                  | GCP                                                                                           |
 |-------------------------------------- |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|

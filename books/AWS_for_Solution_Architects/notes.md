@@ -8,6 +8,8 @@
 
 - [1. Understanding AWS Principles and Key Characteristics](#1-understanding-aws-principles-and-key-characteristics)
   - [Basic cloud and AWS terminology](#basic-cloud-and-aws-terminology)
+- [2. Understanding the AWS Well-Architected Framework](#2-understanding-the-aws-well-architected-framework)
+  - [The six pillars of the AWS Well-Architected Framework](#the-six-pillars-of-the-aws-well-architected-framework)
 
 
 ##  1. Understanding AWS Principles and Key Characteristics
@@ -37,3 +39,25 @@ Cloud providers have different names for the same concepts:
 | **Elastic Load Balancing**            | • Amazon Elastic Load Balancer                                                                                     | • Azure Load Balancer                                                                  | • Google Cloud Load Balancing                                                                 |
 | **PaaS services**                     | • AWS Elastic Beanstalk<br>• VMware Cloud on AWS                                                                   | • App Service and Cloud Services                                                        | • Google App Engine                                                                           |
 | **Machine Learning**                  | • SageMaker<br>• Machine Learning<br>• Rekognition<br>• Lex<br>• Polly<br>• Comprehend<br>• Translate<br>• Transcribe<br>• DeepLens<br>• Deep Learning AMIs | • Machine Learning<br>• Azure Bot Service<br>• Cognitive Services                      | • Google Cloud Machine Learning Engine<br>• Dialogflow<br>• Google Cloud Natural Language<br>• Google Cloud Speech API<br>• Google Cloud Translation API<br>• Google Cloud Video Intelligence<br>• Google Cloud Job
+
+## 2. Understanding the AWS Well-Architected Framework
+
+### The six pillars of the AWS Well-Architected Framework
+
+- Reference: [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+
+**1. Security**
+   - Strong identity foundation
+   - Enable traceability
+   - Apply security at all levels
+   - Automate security best practices
+   - Protect data in transit and at rest
+   - Keep people away from data
+   - Prepare for security events
+
+**2. Reliability**
+   - Automatically recover from failure
+   - Test recovery procedures
+   - Scale horizontally to increase aggregate workload availability
+   - Stop guessing capacity
+   - Manage change in automation

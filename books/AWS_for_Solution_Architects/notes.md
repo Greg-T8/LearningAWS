@@ -10,6 +10,7 @@
   - [Basic cloud and AWS terminology](#basic-cloud-and-aws-terminology)
 - [2. Understanding the AWS Well-Architected Framework](#2-understanding-the-aws-well-architected-framework)
   - [The six pillars of the AWS Well-Architected Framework](#the-six-pillars-of-the-aws-well-architected-framework)
+  - [AWS Well-Architected Lenses](#aws-well-architected-lenses)
 
 
 ##  1. Understanding AWS Principles and Key Characteristics
@@ -92,3 +93,19 @@ Cloud providers have different names for the same concepts:
 - Anticipate and adopt new, more efficient hardware and software offerings
 - Use managed services
 - Reduce downstream impact of your cloud workloads
+
+### AWS Well-Architected Lenses
+
+As of April 2025, AWS has launched 22 [Well-Architected Lenses](https://aws.amazon.com/architecture/well-architected/?ams%23interactive-card-vertical%23pattern-data.filter=%257B%2522filters%2522%253A%255B%255D%257D#:~:text=Learn%20more-,AWS%20Well%2DArchitected%20Lenses,-AWS%20Well%2DArchitected) addressing architecting needs to specific technology workloads and industry domains.
+
+- Serverless Applications Lens
+- Internet of Things (IoT) Lens
+- Data Analytics Lens
+- Machine Learning Lens
+- Hybrid Networking Lens
+- Generative AI Lens
+- Container Build Lens
+- Serverless Application Lens
+- (more...)
+
+You can apply various lenses to your workloads, which will get you a best-practice checklist specific to the domain.

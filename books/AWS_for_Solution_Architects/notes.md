@@ -61,3 +61,34 @@ Cloud providers have different names for the same concepts:
    - Scale horizontally to increase aggregate workload availability
    - Stop guessing capacity
    - Manage change in automation
+
+**3. Performance Efficiency**
+   - Democratize advanced technologies
+   - Go global in minutes
+   - Use serverless architectures
+   - Experiment more often
+   - Mechanical sympathy
+     - Write software in a way that plays nicely with how the machine actually works.
+
+**4. Cost Optimization**
+- Implement cloud financial management
+- Adopt a consumption model
+- Measure overall efficiency
+- Stop spending money on undifferentiated heavy lifting
+    - Don't waste time, money, or resources building and maintaining IT infrastructure or services that don't set your business apart.
+- Analyze and attribute expenditure
+
+**5. Operational Excellence**
+- Perform operations as code
+- Make frequent, small, reversible changes
+- Refine operations procedures frequently
+- Anticipate failure
+- Learn from all operational failures
+
+**6. Sustainability**
+- Understand your impact
+- Establish sustainability goals
+- Maximize utilization
+- Anticipate and adopt new, more efficient hardware and software offerings
+- Use managed services
+- Reduce downstream impact of your cloud workloads

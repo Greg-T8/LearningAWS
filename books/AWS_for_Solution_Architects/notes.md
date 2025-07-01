@@ -13,6 +13,9 @@
   - [AWS Well-Architected Lenses](#aws-well-architected-lenses)
   - [AWS Certifications](#aws-certifications)
 - [3. Leveraging the Cloud for Digital Transformation](#3-leveraging-the-cloud-for-digital-transformation)
+  - [Cloud Computing Models](#cloud-computing-models)
+    - [Understanding IaaS](#understanding-iaas)
+    - [Understanding SaaS](#understanding-saas)
 
 
 ##  1. Understanding AWS Principles and Key Characteristics
@@ -119,4 +122,69 @@ You can apply various lenses to your workloads, which will get you a best-practi
 
 ## 3. Leveraging the Cloud for Digital Transformation
 
+### Cloud Computing Models
 
+<img src="images/1751365247925.png" width="650"/>
+
+#### Understanding IaaS
+
+Advantages of IaaS:
+- Offers the most fexibility of all the cloud models
+- Provisioning of compute, storage, and networking resources can be done quickly
+- Resources can be used for a few minutes, hours, or days
+- Complete control of the infrastructure
+- Highly scalable and fault-tolerant
+
+Disadvantages of IaaS:
+- Security: customers need to manage a more comprehensive security plan
+- Legacy systems: modifications to older applications may be required to run in the cloud
+- Training costs: staff may need training to manage the new infrastructure
+
+Use cases for IaaS:
+- Backups and snapshots
+- Disaster recovery
+- Web hosting
+- Software development environments
+- Data analytics
+
+Examples of AWS IaaS services:
+- Elastic Compute Cloud (EC2) - a server on the cloud
+- Elastic Block Storage (EBS) - block-level storage (i.e. SAN drive on the cloud)
+- Elastic File Storage (EFS) - file-level storage (i.e. NAS drive on the cloud)
+
+#### Understanding SaaS
+
+Characteristics of SaaS:
+- Managed by the vendor (such as AWS)
+- Hosted on a third-party server
+- Accessed over the Internet
+- AWS manages applications, infrastructure, operating systems, and updates
+
+Advantages of SaaS:
+- Reduces time, money, effort spent on repetitive tasks
+- Shifting the responsibility for installing, patching, configuring, and upgrading to a third party
+- Allows you to focus on task that require more personalized attention
+
+Disadvantages of SaaS:
+- Interoperability: SaaS applications may not integrate well with existing systems
+- Customization: SaaS applications may not be customizable to meet specific business needs
+- Lack of control: non-deterministic latency issues
+- Limited features
+
+Use cases for SaaS:
+- Payroll applications, such as ADP
+- CRM solutions, such as Salesforce
+- Workplace collaboration tools, including Zoom, Cisco Webex, Microsoft Teams, and Slack
+- Office management solutions, such as Office 365
+- Workplace solutions, including Amazon WorkSpaces, Google Workspace, and Microsoft Workspace
+
+Examples of AWS SaaS services:
+- Amazon Connect - a cloud-based contact center service
+- Amazon WorkSpaces - a cloud-based desktop service (Windows or Linux)&mdash;a VDI solution
+- Amazon QuickSight - business intelligence and analytics service for creating charts and visualizations
+- Amazon Chime - similar to Slack and Zoom; used for online meetings, video conferencing, and chat
+
+Examples of third-party SaaS solutions:
+- Splunk - a log management and analysis tool that collects data from disparate sources
+- Sendbird - a real-time chat solution for mobile apps and websites
+- Twilio -  a cloud communications platform that enables developers to build voice, video, and messaging applications

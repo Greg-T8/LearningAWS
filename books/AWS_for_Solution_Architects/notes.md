@@ -11,6 +11,8 @@
 - [2. Understanding the AWS Well-Architected Framework](#2-understanding-the-aws-well-architected-framework)
   - [The six pillars of the AWS Well-Architected Framework](#the-six-pillars-of-the-aws-well-architected-framework)
   - [AWS Well-Architected Lenses](#aws-well-architected-lenses)
+  - [AWS Certifications](#aws-certifications)
+- [3. Leveraging the Cloud for Digital Transformation](#3-leveraging-the-cloud-for-digital-transformation)
 
 
 ##  1. Understanding AWS Principles and Key Characteristics
@@ -109,3 +111,12 @@ As of April 2025, AWS has launched 22 [Well-Architected Lenses](https://aws.amaz
 - (more...)
 
 You can apply various lenses to your workloads, which will get you a best-practice checklist specific to the domain.
+
+### AWS Certifications
+
+<img src='images/20250701051705.png' width='650'/>
+
+
+## 3. Leveraging the Cloud for Digital Transformation
+
+
